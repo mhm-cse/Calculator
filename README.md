@@ -1,4 +1,4 @@
-# 🔢 ***Basic Age Calculator***
+# 🔢 ***Calculator***
 This calculator allows users to input numbers and select arithmetic operators using on-screen buttons. When the equals button is pressed, the calculator processes the input and displays the result instantly. The clear button allows users to reset the calculation.
 
 This application performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
